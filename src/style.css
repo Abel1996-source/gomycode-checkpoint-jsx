@@ -1,0 +1,11 @@
+.red{
+    color:red;
+}
+.title{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+.Image{
+    display:flex;
+    justify-content:space-evenly;
+}
